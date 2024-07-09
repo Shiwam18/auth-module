@@ -1,0 +1,10 @@
+.formBody{
+    border: 1px solid white;
+    width:30%;
+    margin:auto;
+    border-color: azure;
+}
+.textDecoration{
+    text-decoration: none;
+    color: beige;
+}
